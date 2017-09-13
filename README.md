@@ -345,7 +345,7 @@ Now we would like to use a domain name for the server. I am using CloudShare as 
 
 But why are we doing so? Because Google OAuth doesn't work for bare IPs
 Since i already have a Domain so...
-Now go visit your sub-domain. It should work. (Here: chetanya.singhpratyush.in)
+Now go visit your sub-domain. It should work. (Here: http://chetanya.singhpratyush.in)
 
 **IMPORTANT** You will have to to disable the default nginx site here. `sudo a2dissite 000-default`
 
