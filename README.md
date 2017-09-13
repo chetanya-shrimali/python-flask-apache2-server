@@ -5,7 +5,7 @@ We will setup an internal postgres server as the database and demonstrate some a
 
 **IMPORTANT** The name of database is `catalog` and the project so cloned is stored in folder named `catalog`.
 Also the project is for `linux` users whereas there are some changes regarding url's for `Mac` users
-
+And also  the database so formed will primarily have no data. 
 
 ## Table of Contents
 These are All the things required to compelete the project. 
