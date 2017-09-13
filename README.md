@@ -8,7 +8,7 @@ Also the project is for `linux` users whereas there are some changes regarding u
 
 
 ## Table of Contents
-
+These are All the things required to compelete the project. 
 1. Start a new server on Digital Ocean.
 2. SSH into the server.
 3. Update all currently installed packages.
@@ -28,7 +28,7 @@ Also the project is for `linux` users whereas there are some changes regarding u
 15. Use a custom domain with Digital Ocean.
 16. Disable root remote login and enforce key-based authentication.
 
-
+### Stepwise demonstration of the project.
 <a name="step1"></a>
 ## Step 1:
 
@@ -280,8 +280,7 @@ cd /var/www
 sudo git clone https://github.com/chetanya-shrimali/item-catalog-application.git catalog
 ```
 
-Then we need to setup the project. See the [project README](https://github.com/aviaryan/ud-catalog) for instructions.
-
+Then we need to setup the project. 
 ```sh
 # install pip3
 sudo easy_install3 pip
